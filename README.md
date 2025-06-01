@@ -1,2 +1,1 @@
-# Gravacao_audio_with_python_projeto_faculdade
-# Gravacao_audio_with_python_projeto_faculdade
+# Primeiras versões de implementação de obtenção de audio por codigo python
